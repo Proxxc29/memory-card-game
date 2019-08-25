@@ -5,4 +5,4 @@
  3) If They Dont,The 1st Cards Will turn  Down Again. then search for another same card   
  4) Repeat till all cards Dissappear.    
  [Hint: - By one Click card will open and another click on same card card will turn down it again.]
-It is based on java and created using NetBeans IDLE so you can download it & modify for more number of steps.
+It is based on java and created using NetBeans IDE so you can download it & modify for more number of steps.
